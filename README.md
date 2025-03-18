@@ -68,7 +68,7 @@ I am a data-driven problem solver with a strong foundation in **machine learning
 ---
 
 ## 📫 Connect With Me  
-📧 **Email:** [atharvaa2014@gmail.com](mailto:atharvaa2014@gmail.com)  
+📧 **Email:** [aaryan272001@gmail.com](mailto:aaryan272001@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/aaryan-wani](https://www.linkedin.com/in/aaryan-wani/)  
 💻 **GitHub:** [github.com/aaryanwani](https://github.com/aaryanwani)  
 
