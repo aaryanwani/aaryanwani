@@ -5,6 +5,7 @@
 ---
 
 ## 🚀 About Me  
+
 I am a data-driven problem solver with a strong foundation in **machine learning, data engineering, and business analytics**. With experience in **Python, SQL, Power BI, and cloud computing**, I specialize in **building predictive models, optimizing data pipelines, and developing insightful dashboards** to drive strategic decision-making.  
 
 ---
