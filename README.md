@@ -38,19 +38,19 @@ I am a data-driven problem solver with a strong foundation in **machine learning
 
 ## 📊 Projects  
 
-### **📌 [Predictive Analysis of Residential Energy Consumption]**(https://github.com/aaryanwani/Residential_Energy_Consumption_Analysis)  
+### 📌 [Predictive Analysis of Residential Energy Consumption](https://github.com/aaryanwani/Residential_Energy_Consumption_Analysis)  
 - Built **ML models in R** to analyze energy consumption trends, improving forecasting accuracy by **30%**.  
 - Developed a **Shiny app** for personalized energy predictions, enhancing energy efficiency awareness by **20%**.  
 
-###` **📌 [Player Form Prediction in Euro League Football]**(https://github.com/aaryanwani/Player_Form_Prediction)  
+### 📌 [Player Form Prediction in Euro League Football](https://github.com/aaryanwani/Player_Form_Prediction)  
 - Developed **time-series forecasting models (ARIMA, LSTM)** to predict player performance with **92% accuracy**.  
 - Integrated **historical data & game statistics** to enhance match predictions and reduce selection inconsistencies by **20%**.  
 
-### **📌 [Hospitality Business Intelligence Dashboard]**(https://github.com/aaryanwani/Hospitality_Business_Intelligence_Dashboard)  
+### 📌 [Hospitality Business Intelligence Dashboard](https://github.com/aaryanwani/Hospitality_Business_Intelligence_Dashboard)  
 - Created an **interactive Power BI dashboard** to visualize financial metrics, reducing report generation time by **40%**.  
 - Analyzed **market trends and economic forecasts**, leading to a **10% increase in investment portfolio performance**.  
 
-### **📌 [Cloud-Integrated Smart Inventory System for E-Commerce]**(https://github.com/aaryanwani/Cloud-Integrated-Smart-Inventory-System-for-E-Commerce-Business)  
+### 📌 [Cloud-Integrated Smart Inventory System for E-Commerce](https://github.com/aaryanwani/Cloud-Integrated-Smart-Inventory-System-for-E-Commerce-Business)  
 - Designed a **MySQL-based inventory tracking system**, improving stock accuracy by **30%** and minimizing errors by **40%**.  
 - Developed an **automated reordering system using PowerApps**, increasing operational efficiency by **15%**.  
 
