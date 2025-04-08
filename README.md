@@ -16,7 +16,7 @@ I am a data-driven problem solver with a strong foundation in **machine learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white)  
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  
 
 ### **Machine Learning & Data Science**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
